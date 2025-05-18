@@ -1,16 +1,22 @@
-## Hi there 👋
+# Srinivasan C
 
-<!--
-**Srinivasan-ui/Srinivasan-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Web & Graphic Designer* | UI/UX Enthusiast | Frontend Developer
 
-Here are some ideas to get you started:
+I'm passionate about crafting modern, clean, and user-friendly digital experiences.  
+Skilled in Figma, Adobe XD, Photoshop, Illustrator, HTML/CSS, and WordPress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+UI/UX Design: Figma, Adobe XD
+Graphic Design: Photoshop, Illustrator, Canva
+Web Development: HTML, CSS, JavaScript, WordPress
+Tools: VS Code, Git & GitHub
+
+### Projects
+[Personal Portfolio Website](link-to-repo)
+[UI Design Showcase](link-to-dribbble/behance)
+[Flight Delay Prediction (ML Project)](link-to-repo)
+
+### Connect with Me
+[LinkedIn](your-link)
+[Behance](your-link)
+[Dribbble](your-link)
