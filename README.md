@@ -10,13 +10,6 @@ Welcome to my GitHub! I’m a passionate Computer Science Engineering student wh
 - Develop Android applications using *Java & Firebase*
 - Analyze and visualize data using *Python and analytics tools*
 
-## 🌟 Featured Projects
-
-- *Personal Portfolio Website*  
-  My creative portfolio built with HTML, CSS, JS
-
-- *Android App (Internship @ Corizo)*  
-  A functional app developed during my internship using Firebase backend
 
 ## 📫 Let's Connect
 - *Portfolio*: [srinivasannivas.github.io/Portfolio](https://srinivasannivas.github.io/Portfolio)
