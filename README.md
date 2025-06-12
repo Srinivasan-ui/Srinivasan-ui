@@ -20,8 +20,8 @@ Welcome to my GitHub! I’m a passionate Computer Science Engineering student wh
 
 ## 📫 Let's Connect
 - *Portfolio*: [srinivasannivas.github.io/Portfolio](https://srinivasannivas.github.io/Portfolio)
-- *LinkedIn*: [linkedin.com/in/srinivasan-designer](www.linkedin.com/in/srinivasan-design)
-- *Email*: Sriivasan.uiux@gmail.com
+- *LinkedIn*: [linkedin.com/in/srinivasan-designer](https://www.linkedin.com/in/srinivasan-design)
+- *Email*: Srinivasan.uiux@gmail.com
 
 ---
 
