@@ -1,4 +1,4 @@
-##i am the happiest man in world # Hi there, I'm Srinivasan C!
+## i am the happiest man in world # Hi there, I'm Srinivasan C!
 
 *Aspiring UI/UX Designer | Android Developer | Data Enthusiast*
 
